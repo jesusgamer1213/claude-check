@@ -11,12 +11,13 @@ A quick test to confirm that **Claude Code** is installed, configured, and able 
 ```bash
 git clone https://github.com/jesusgamer1213/claude-check
 cd claude-check
+# With that you only have access to claude-check/History_Of_Dragons.md and claude-check/README.md
 ```
 
-2. In your terminal (a plain shell — not inside another Claude Code session), run this exact command:
+2. In your terminal (a plain shell — you can use Claude Code session but it need to run as plain shell), run this exact command:
 
 ```bash
-claude "summarize the history of dragons History_Of_Dragons.md and save the summary as a well-formatted SUMMARY.md file in this folder"
+claude "summarize the history of dragons claude-check/History_Of_Dragons.md and save the summary as a well-formatted SUMMARY.md file in this folder"
 ```
 
 3. Check that a `SUMMARY.md` file was created in the repo folder, then send that file (or a screenshot of it) to your team lead.
