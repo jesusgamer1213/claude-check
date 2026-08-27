@@ -14,7 +14,7 @@ A quick test to confirm that **Claude Code** is installed and working on your ma
 2. Run the following command inside the repo folder:
 
    ```bash
-   claude "summarize this repo"
+   claude "summarize this repo md"
    ```
 
 3. Send the result (or a screenshot) to your team lead.
