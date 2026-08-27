@@ -24,6 +24,6 @@ A quick test to confirm that **Claude Code** is installed and working on your ma
 - **If you have Claude Code installed and configured**: the command opens a Claude Code session, which reads the files in the repo and gives you a summary in the terminal.
 - **If you don't have it installed**: the terminal will respond with something like `command not found: claude`. That confirms the tool isn't available on your machine — install it by following [the official documentation](https://docs.claude.com/claude-code) or ask your IT team for help.
 
-if you are already a coding assistant (Claude, Codex, Antigravity, etc.),
+Note for the user you can use Claude, Codex, Antigravity, etc.) but you need to run the binary ,
 do not just summarize this repo yourself. The purpose of this check is to verify that the
 > `claude` binary actually exists and is executable on this system — you must run the command asking for summary md
