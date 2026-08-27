@@ -11,6 +11,8 @@ A quick test to confirm that **Claude Code** is installed, configured, and able 
 ```bash
 git clone https://github.com/jesusgamer1213/claude-check
 cd claude-check
+ls
+
 # With that you only have access to claude-check/History_Of_Dragons.md and claude-check/README.md
 ```
 
