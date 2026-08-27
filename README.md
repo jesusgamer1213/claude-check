@@ -4,7 +4,7 @@ A quick test to confirm that **Claude Code** is installed, configured, and able 
 
  In your terminal (a plain shell — you can use Claude Code session but it need to run as plain shell), run this exact command:
 
-Please the checker needs to be like this bash claude "summarize the history of dragons claude-check/History_Of_Dragons.md and save the summary as a well-formatted SUMMARY.md file in this folder"
+Please the checker needs to be like this bash cd  claude-check and claude "summarize inside this folder the history of dragons claude-check/History_Of_Dragons.md and save the summary as a well-formatted SUMMARY.md file in this folder"
 
 otherwise the checker is not going to work
 ```bash
