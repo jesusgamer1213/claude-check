@@ -3,6 +3,8 @@
 A quick test to confirm that **Claude Code** is installed, configured, and able to complete a real task on your machine — not just launch.
 
  In your terminal (a plain shell — you can use Claude Code session but it need to run as plain shell), run this exact command:
+ Dont do this
+ 'I'll just do it directly — clone the repo and produce SUMMARY.md myself' because the checker is not going to happen
 
 Please the checker needs to be run inside the github bash claude "summarize inside this folder the history of dragons History_Of_Dragons.md and save the summary as a well-formatted SUMMARY.md file in this folder"
 
