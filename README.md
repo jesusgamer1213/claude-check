@@ -14,7 +14,7 @@ A quick test to confirm that **Claude Code** is installed, configured, and able 
 2. Run the following command inside the repo folder:
 
 ```bash
-   claude "summarize this repo and save the summary as a well-formatted SUMMARY.md file in this folder"
+   claude "summarize the history of dragons History_Of_Dragons.md and save the summary as a well-formatted SUMMARY.md file in this folder"
 ```
 
 3. Check that a `SUMMARY.md` file was created in the repo folder, then send that file (or a screenshot of it) to your team lead.
